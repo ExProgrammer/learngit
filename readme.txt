@@ -1,4 +1,4 @@
-fast-forward test.
+fast-forward test good.
 Add a new branch dev.
 Creating a new branch is quick.
 learn is happy.
